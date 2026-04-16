@@ -5,5 +5,5 @@ metadata:
 spec:
   imageTagMirrors:
   - mirrors:
-    - quay.io/pbastide_rh/mockserver-ppc64le
+    - quay.io/vray_rh/rhcl_testsuite_dependencies
     source: quay.io/rhn_support_azgabur/mockserver
