@@ -1,7 +1,7 @@
 apiVersion: config.openshift.io/v1
 kind: ImageTagMirrorSet
 metadata:
-  name: httpbin-itms
+  name: mockserver-itms
 spec:
   imageTagMirrors:
   - mirrors:
